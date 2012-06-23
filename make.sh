@@ -1,0 +1,1 @@
+make && cp DonSimon.nds H:

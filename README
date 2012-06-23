@@ -1,0 +1,27 @@
+DonSimon 1.0
+
+This is my first project for the Nintendo DS.
+
+It is the famous Simon game and it makes use of the touch screen
+
+The game logic is so simple. It generates a random sequence along the 4 lights, making a different sound on each one, and the player must repeat the same sequence.
+
+Game features:
+
+* Save your records: play with friends and try to win them!
+* Great graphics based on the original Simon game.
+* Classic Simon sounds.
+* Uses the touch screen. It’s designed to play with your fingers, so you will not need the stylus to play.
+* Great effects like zoom and rotations
+
+Files included:
+ - DonSimon.nds
+	Works in SuperCard with latest firmware (>=1.52), wifime and maybe on other 
+	cards (I have not tested it)
+ - DonSimon.ds.gba
+	Works in almost every flashcart.
+ - DonSimon.sav
+	Save file for SuperCard with the latest firmware (>=1.52). You will need it 
+	to save your records.
+
+More info and comments in http://www.fr3nd.net/projects/don-simon/
